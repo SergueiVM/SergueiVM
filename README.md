@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergueiVM
-- 👀 I had a problem with my account and need to restore all
+- 👀 I had a problem with my account and need to restore all. My older respositories are hosted on SergueiVM-zz but here you'll find the lastest version of them.
 - 📫 if you need something from me, please reach me using the common channels
 
 <!---
